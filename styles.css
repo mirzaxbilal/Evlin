@@ -1,0 +1,126 @@
+body{
+  text-align: center;
+
+}
+.title-container{
+    padding-top:5%;
+}
+.punch{
+    font-size: 5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    color: white;
+    padding-top:5%;
+}
+.front-page{
+  background-color: black;
+}
+
+.nav-custom{
+  padding: 1.1% 5%;
+  font-size:1.1rem;
+  position: fixed;
+  background-color: black;
+}
+.Elegance{
+  font-size:1.5rem;
+
+}
+
+.title-image{
+  height: 40.5rem;
+
+}
+.shop-btn{
+  width: 50%;
+  margin-top:40px;
+}
+
+
+
+#organic{
+  background-color: white;
+}
+h2{
+  font-size: 3.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  color: black;
+  padding-top:5%;
+}
+.organic-img{
+  padding-top: 5%;
+  padding-bottom:5%;
+  height:30rem;
+  border: 0px;
+}
+.handmade-row{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.handmade-para{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 1.5rem;
+    padding-top:2%;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+.icons{
+  font-size: 3rem;
+  padding:5% 7%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+}
+.feature-icon:hover{
+  color:grey;
+}
+.feature-para{
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+#product{
+  background-color: black;
+
+}
+.product-heading{
+  color:white;
+  padding-bottom: 5%;
+}
+.arsino-img{
+  height: 20rem;
+  text-align: left;
+
+}
+.product-name{
+  font-family: 'Montserrat', sans-serif;
+  font-weight:300;
+  color:white;
+  font-size: 2rem;
+}
+.coursel-custom{
+  padding-bottom: 5%;
+}
+.coursel-row{
+  padding:0 9% 5% 9%;
+}
+.product-para{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-size: 1.2rem;
+  color:white;
+}
+.product-text-container{
+  padding-top: 5%;
+}
+#footer{
+  background-color: #989898;
+  text-align: center;
+  padding: 5%;
+}
+.social-icons{
+  word-spacing: 20px;
+}
