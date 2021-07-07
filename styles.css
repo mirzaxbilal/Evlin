@@ -21,9 +21,11 @@ body{
   font-size:1.1rem;
   position: fixed;
   background-color: black;
+  opacity: 85%;
 }
 .Elegance{
   font-size:1.5rem;
+  opacity:100%;
 
 }
 
